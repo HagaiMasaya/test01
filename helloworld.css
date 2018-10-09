@@ -15,7 +15,13 @@
 
 	#body_title{
 		font-size: 300%;
-		width: 400px
+		border: hidden;
+		margin: 0px auto;
+		padding: 0px;
+	}
+
+	.body_subtitle{
+		font-size: 200%;
 		border: hidden;
 		margin: 0px auto;
 		padding: 0px;
@@ -33,4 +39,9 @@
 	p.quote_name{
 		font-size: 60%;
 		text-align: right;
+	}
+
+	p.doc{
+		text-indent: 1em;
+		text-align: left;
 	}

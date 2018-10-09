@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+	body {
+		background:#008b8b;
+		text-align: center;
+	}
+	div {
+		background: #7fffd4;
+		width: 400px
+		border: 1px solid #000000;
+		magin: 30px auto;
+	}

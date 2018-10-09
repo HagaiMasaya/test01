@@ -4,9 +4,37 @@
 		background:#008b8b;
 		text-align: center;
 	}
+
 	div {
 		background: #7fffd4;
 		width: 400px
 		border: 1px solid #000000;
-		magin: 30px auto;
+		margin: 30px auto;
+		padding: 10px;
+	}
+
+	#body_title{
+		font-size: 300%;
+		width: 400px
+		border: hidden;
+		margin: 0px auto;
+		padding: 0px;
+	}
+
+	a{
+		font-size: 80%;
+	}
+
+	div.quote{
+		background: #ffffff;
+		border: 1px solid #000000;
+	}
+
+	p.quote_doc{
+		font-style: italic;
+	}
+
+	p.quote_name{
+		font-size: 60%;
+		text-align: right;
 	}
